@@ -1,0 +1,11 @@
+aiogram==3.13.1
+aiosqlite==0.20.0
+cachetools==5.5.0
+matplotlib==3.9.2
+numpy==2.1.1
+openpyxl==3.1.5
+pandas==2.2.3
+pillow==10.4.0
+pydantic==2.9.2
+python-dotenv==1.0.1
+requests==2.32.3
